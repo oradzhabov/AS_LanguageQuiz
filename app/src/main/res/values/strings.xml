@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Quiz</string>
+
+    <string name="quiz_title">Animal Quiz!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset_quiz">Start game again?</string>
+    <string name="repeate_tip">Press to listen again</string>
+
+
+    <string-array name="animalList">
+        <item>Bird</item>
+        <item>Cat</item>
+        <item>Horse</item>
+        <item>Lion</item>
+        <item>Sheep</item>
+    </string-array>
+
+</resources>
